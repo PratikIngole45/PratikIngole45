@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PratikIngole45
 - 👀 I’m Second year CSE Student
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA with DSA.
+- 
   
 - 
 
